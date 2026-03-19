@@ -77,7 +77,7 @@ const IconChevronDown = () => (
   </svg>
 );
 
-const WA_LINK = 'https://wa.me/523313013253?text=Hola%2C%20me%20interesa%20una%20asesor%C3%ADa%20para%20regularizar%20mi%20propiedad.';
+const WA_LINK = 'https://wa.me/523349698324?text=Hola%2C%20me%20interesa%20una%20asesor%C3%ADa%20para%20regularizar%20mi%20propiedad.';
 
 /* ─────────────── SCROLL OBSERVER HOOK ─────────────── */
 function useInView(options = {}) {
